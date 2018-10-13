@@ -1,0 +1,117 @@
+
+
+
+
+button{
+position: fixed;
+left:50;
+top:50%;
+font-size:40px;
+color: black;
+font-family: monospace;
+color: white;
+background-color: blue;
+left: 22%;
+
+}
+
+
+
+
+
+/*========================================================
+          Sitewide Styles
+==========================================================*/
+/*multiple selector*/
+
+
+.typewriter2{
+  color: #fff;
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation:
+    typing 3.5s
+    steps(30, end),
+    blink-caret .5s step-end infinite;
+
+
+
+
+font-size:40px;
+    color: black;
+position: fixed;
+    left:22%;
+    top:15%;
+
+}
+
+
+
+.typewriter3{
+  color: #fff;
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation:
+    typing 3.5s
+    steps(30, end),
+    blink-caret .5s step-end infinite;
+
+
+
+font-size:30px;
+    color: black;
+position: fixed;
+    left:22%;
+    top:25%;
+
+}
+
+
+/* Animation */
+
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+
+
+/* The typing effect */
+@keyframes
+
+
+ typing {
+  from { width: 0 }
+  to { width: 33% }
+}
+
+
+
+body {
+
+  background: url("../images/background3psd.jpg")  center right fixed;
+  background-size: 1000px 2000px;
+
+  left:200%;
+  top:30%;
+}
+
+
+.text {
+  font-size:20px;
+  color: black;
+  font-family: monospace;
+  position: fixed;
+  left:22%;
+  top:40%;
+
+
+}
