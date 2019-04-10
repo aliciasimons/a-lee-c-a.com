@@ -1,0 +1,193 @@
+.overall{
+  padding-left: 100px;
+  padding-top: 100px;
+  padding-bottom:100px;
+
+}
+
+
+.quote{
+  color: black;
+  font-size: 25px;
+  font-family: Courier10Pitch;
+  padding-top: 10%;
+  display: block;
+  padding-top: 10px;
+  width: 630px;
+
+
+}
+
+
+.summary{
+  color: black;
+  font-size: 15px;
+  font-family: Courier10Pitch;
+  padding-top: 10%;
+  display: block;
+  padding-top: 10px;
+  width: 630px;
+}
+
+
+.subheading{
+  color: black;
+  font-size: 25px;
+  font-family: CooperBT;
+  padding-top: 10%;
+  display: block;
+  padding-top: 10px;
+  width: 520px;
+
+}
+
+
+
+
+
+.middle{
+color: black;
+font-size: 25px;
+font-family: Courier10Pitch;
+padding-top: 10%;
+padding-left: 200px; 
+
+}
+
+.title{
+  font-size: 255px;
+  font-family: CooperBT;
+  padding-top: 10%;
+text-align: center;
+}
+
+.milestone_1{
+  color: black;
+    font-size: 25px;
+    font-family: Courier10Pitch;
+text-align: center;
+}
+
+.typewriter2{
+
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  white-space: nowrap; /* Keeps the content on a single line */
+  animation:
+  typing 3.5s
+  steps(30, end),
+  blink-caret .5s step-end infinite;
+  color: black;
+  font-size: 60px;
+  font-family: CooperBT;
+  padding-left: 10%;
+}
+
+
+/* The typing effect */
+@keyframes
+
+
+ typing {
+  from { width: 0 }
+  to { width: 33% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+
+
+
+.marquee {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  white-space: nowrap;
+  box-sizing: border-box;
+  animation: marquee 60s linear infinite;
+  font-size:20px;
+  color: black;
+  Border:black
+  text-shadow: 0.1em 0.1em #333
+  left:10%;
+  top:10%;
+  font-family: CooperBT;
+
+
+}
+
+@keyframes marquee {
+  0% {
+    text-indent: 75%
+  }
+  100% {
+    text-indent: -125%
+  }
+}
+
+.marquee:hover {
+  animation-play-state: paused
+}
+
+
+
+
+.marqueetwo {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  white-space: nowrap;
+  box-sizing: border-box;
+  animation: marquee 60s linear infinite;
+  font-size:20px;
+  color: black;
+  Border:black
+  text-shadow: 0.1em 0.1em #333
+  left:10%;
+  top:10%;
+  font-family: CooperBT;
+
+}
+
+
+.marqueetwo:hover {
+  animation-play-state: paused
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+    @keyframes marquee_v {
+        0% {
+            top: 8em
+        }
+        100% {
+            top: -2em
+        }
+    }
+
+
+
+
+    /*attempt at vertical layers*/
+
+
+
+
+
+
+
+
+/*formatting answers*/

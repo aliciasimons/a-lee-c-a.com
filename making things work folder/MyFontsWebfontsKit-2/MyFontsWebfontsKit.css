@@ -1,0 +1,46 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3669984, 2018-11-11T00:35:21-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Courier10PitchBT-Roman by Bitstream
+ * URL: https://www.myfonts.com/fonts/bitstream/courier-10-pitch/courier-10-pitch/
+ * 
+ * Webfont: Courier10PitchBT-Italic by Bitstream
+ * URL: https://www.myfonts.com/fonts/bitstream/courier-10-pitch/italic/
+ * 
+ * Webfont: CooperBT-Bold by Bitstream
+ * URL: https://www.myfonts.com/fonts/bitstream/cooper/bold/
+ * 
+ * Webfont: CooperLtBTWXX-BoldItalic by Bitstream
+ * URL: https://www.myfonts.com/fonts/bitstream/cooper/bold-italic/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3669984
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright 1990-2003 Bitstream Inc. All rights reserved.
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/37ffe0");
+
+  
+@font-face {font-family: 'Courier10Pitch';font-weight: normal;font-style: normal;src: url('webfonts/37FFE0_0_0.eot');src: url('webfonts/37FFE0_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/37FFE0_0_0.woff2') format('woff2'),url('webfonts/37FFE0_0_0.woff') format('woff'),url('webfonts/37FFE0_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Courier10Pitch';font-weight: normal;font-style: italic;src: url('webfonts/37FFE0_1_0.eot');src: url('webfonts/37FFE0_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/37FFE0_1_0.woff2') format('woff2'),url('webfonts/37FFE0_1_0.woff') format('woff'),url('webfonts/37FFE0_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CooperBT';font-weight: normal;font-style: normal;src: url('webfonts/37FFE0_2_0.eot');src: url('webfonts/37FFE0_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/37FFE0_2_0.woff2') format('woff2'),url('webfonts/37FFE0_2_0.woff') format('woff'),url('webfonts/37FFE0_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'CooperBT';font-weight: normal;font-style: italic;src: url('webfonts/37FFE0_3_0.eot');src: url('webfonts/37FFE0_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/37FFE0_3_0.woff2') format('woff2'),url('webfonts/37FFE0_3_0.woff') format('woff'),url('webfonts/37FFE0_3_0.ttf') format('truetype');}
+ 
